@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\bin\Debug\netcoreapp3.1\AgeCategoryApp.Logic.deps.json
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\bin\Debug\netcoreapp3.1\AgeCategoryApp.Logic.dll
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\bin\Debug\netcoreapp3.1\AgeCategoryApp.Logic.pdb
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.dll
+C:\Users\DELL\source\repos\AgeCategoryApp\AgeCategoryApp\obj\Debug\netcoreapp3.1\AgeCategoryApp.Logic.pdb
